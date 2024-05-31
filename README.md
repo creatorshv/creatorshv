@@ -57,17 +57,15 @@
 
 <hr/>
 
-<h2 align="center">Stats 📈</h2>
+<h2 align="center">Stats</h2>
 <br>
 
 <div align="center">
-    <p>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt=""></a>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt=""></a>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt=""></a>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg" alt=""></a>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/4-productive-time.svg" alt=""></a>
-    </p>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyash-vishwasrao&amp;theme=github_dark" alt="">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyash-vishwasrao&amp;theme=github_dark" alt="">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyash-vishwasrao&amp;theme=github_dark" alt="">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyash-vishwasrao&amp;theme=github_dark" alt="">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyash-vishwasrao&amp;theme=github_dark&amp;utcOffset=8" alt="">
 </div>
 
 <br/><br/>
