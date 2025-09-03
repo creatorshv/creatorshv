@@ -46,8 +46,6 @@
 
 <div align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creatorshv&theme=github_dark" alt="Profile Details" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creatorshv&theme=github_dark" alt="Repos per Language" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creatorshv&theme=github_dark" alt="Most Commit Language" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creatorshv&theme=github_dark" alt="Stats" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creatorshv&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </div>
